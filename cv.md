@@ -34,8 +34,8 @@ I graduated from Nizhnevartovsk State University as a translator in 2012 and hav
 ---
 
 ```
-function multiply(a, b){
- return a * b
+function multiply(a, b) {
+ return a * b;
 }
 
 ```
