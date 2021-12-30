@@ -1,1 +1,1 @@
-https://github.com/Scape-X/rsschool-cv/blob/gh-pages/cv.md
+https://scape-x.github.io/rsschool-cv/
