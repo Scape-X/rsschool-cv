@@ -35,6 +35,7 @@ ul {
   top: 0;
   grid-area: header;
   background-color: #ffcc00;
+  z-index: 2;
 }
 
 .nav {
