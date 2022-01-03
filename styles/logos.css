@@ -1,0 +1,49 @@
+.logo {
+  position: relative;
+  padding-left: 20px;
+}
+
+.logo::before {
+  position: absolute;
+  content: "";
+  left: 0;
+  top: calc(50% - 8px);
+  width: 16px;
+  height: 16px;
+  background-repeat: no-repeat;
+  background-position: 0 0;
+  background-size: 16px 16px;
+}
+
+.html5-logo::before {
+  background-image: url("../img/html_logo.svg");
+}
+
+.css3-logo::before {
+  background-image: url("../img/css_logo.svg");
+}
+
+.js-logo::before {
+  background-image: url("../img/js_logo.svg");
+}
+
+.git-logo::before {
+  background-image: url("../img/git_logo.png");
+}
+
+.vs-logo::before {
+  background-image: url("../img/vs_logo.png");
+}
+
+.figma-logo::before {
+  background-image: url("../img/figma_logo.svg");
+}
+
+.github-logo::before {
+  background-image: url("../img/octocat.svg");
+  background-size: 24px;
+  width: 24px;
+  height: 24px;
+  left: -8px;
+  top: calc(50% - 12px);
+}
