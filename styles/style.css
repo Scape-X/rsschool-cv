@@ -103,6 +103,10 @@ ul {
   margin: 0 0 20px 0;
 }
 
+.contact__item {
+  margin-bottom: 16px;
+}
+
 .name {
   font-size: 50px;
   font-weight: bold;
